@@ -1,3 +1,8 @@
-# flutterlist
+# APLIKASI FLUTTER FIREBASE
 
-Aplikasi Flutter Firebase
+## _Aplikasi Untuk Menampilkan Data Dari Firebase_
+
+## Aplikasi menggunakan teklnologi :
+- Dart
+- Flutter
+- Firebase
